@@ -1,0 +1,37 @@
+# Java & Build
+target/
+bin/
+*.class
+*.jar
+
+# IDEs
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Eclipse
+*.launch
+.metadata/
+
+# IntelliJ
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SUMO temp files
+*.rou.xml~
+*.net.xml~
+*.sumocfg~
+*.log
+
+# Logs
+*.log
+
+# Documentation drafts
+*.docx
+*.pdf.draft
